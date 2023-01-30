@@ -1,4 +1,16 @@
-# Demonstração de Inteligência de Máquina aplicada em questões de Mobilidade Urbana
+# PROJETO MOBILIDADE URBANA 
 
-Desc: Este repositório serve para a organização e criação de histórico de pesquisa. A pesquisa a ser desenvolvida possui como alvo a demonstração de questões de mobilidade urbana e aplicação de inteligência de máquina sobre as mesmas.
-  
+### Projeto realizado por:
+  - Vinícius Nolêto de Araújo
+  - Felipe Rubens de Sousa Borges
+
+### Sob supervisão:
+  - Professor Felipe Lobo
+
+---
+
+## *TEMA*
+Inteligência de Máquina aplicada em questões de Mobilidade Urbana
+
+## *Descrição*
+O projeto consiste na utilização de Inteligência de Máquina para reestruturação de fluxo urbano e que planeja trazer mudanças na sustentabilidade do trânsito, com o cruzamento de informações para o planejamento de mobilidade.
